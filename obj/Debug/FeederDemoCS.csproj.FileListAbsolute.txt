@@ -1,0 +1,12 @@
+C:\Users\willi\Downloads\vJoy218SDK-291116\SDK\c#\FeederDemoCS\bin\Debug\FeederDemoCS.exe
+C:\Users\willi\Downloads\vJoy218SDK-291116\SDK\c#\FeederDemoCS\bin\Debug\FeederDemoCS.pdb
+C:\Users\willi\Downloads\vJoy218SDK-291116\SDK\c#\FeederDemoCS\bin\Debug\vJoyInterfaceWrap.dll
+C:\Users\willi\Downloads\vJoy218SDK-291116\SDK\c#\FeederDemoCS\obj\Debug\FeederDemoCS.csprojAssemblyReference.cache
+C:\Users\willi\Downloads\vJoy218SDK-291116\SDK\c#\FeederDemoCS\obj\Debug\FeederDemoCS.csproj.CoreCompileInputs.cache
+C:\Users\willi\Downloads\vJoy218SDK-291116\SDK\c#\FeederDemoCS\obj\Debug\FeederDemoCS.csproj.CopyComplete
+C:\Users\willi\Downloads\vJoy218SDK-291116\SDK\c#\FeederDemoCS\obj\Debug\FeederDemoCS.exe
+C:\Users\willi\Downloads\vJoy218SDK-291116\SDK\c#\FeederDemoCS\obj\Debug\FeederDemoCS.pdb
+C:\Users\willi\Downloads\vJoy218SDK-291116\SDK\c#\FeederDemoCS\bin\Debug\FeederDemoCS.exe.config
+C:\Users\willi\Downloads\vJoy218SDK-291116\SDK\c#\FeederDemoCS\bin\Debug\Midi.dll
+C:\Users\willi\Downloads\vJoy218SDK-291116\SDK\c#\FeederDemoCS\bin\Debug\Midi.pdb
+C:\Users\willi\Downloads\vJoy218SDK-291116\SDK\c#\FeederDemoCS\bin\Debug\Midi.xml
