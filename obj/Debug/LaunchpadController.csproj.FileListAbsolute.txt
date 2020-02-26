@@ -1,0 +1,9 @@
+C:\Users\willi\Source\Repos\Launchpad-Controller\bin\Debug\FeederDemoCS.exe.config
+C:\Users\willi\Source\Repos\Launchpad-Controller\bin\Debug\FeederDemoCS.exe
+C:\Users\willi\Source\Repos\Launchpad-Controller\bin\Debug\FeederDemoCS.pdb
+C:\Users\willi\Source\Repos\Launchpad-Controller\bin\Debug\Midi.pdb
+C:\Users\willi\Source\Repos\Launchpad-Controller\bin\Debug\Midi.xml
+C:\Users\willi\Source\Repos\Launchpad-Controller\obj\Debug\LaunchpadController.csprojAssemblyReference.cache
+C:\Users\willi\Source\Repos\Launchpad-Controller\obj\Debug\LaunchpadController.csproj.CopyComplete
+C:\Users\willi\Source\Repos\Launchpad-Controller\obj\Debug\FeederDemoCS.exe
+C:\Users\willi\Source\Repos\Launchpad-Controller\obj\Debug\FeederDemoCS.pdb

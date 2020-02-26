@@ -63,9 +63,10 @@ namespace midi2controller
         {
             for (int i = 0; i < InputDevice.InstalledDevices.Count; i++)
             {
-                if (InputDevice.InstalledDevices[i].Name.Contains("Launchpad"))
+                string currentName = InputDevice.InstalledDevices[i].Name;
+                if (currentName.Contains("Launchpad") || currentName.Contains("LPMini"))
                 {
-                    Console.WriteLine("Found: " + InputDevice.InstalledDevices[i].Name);
+                    Console.WriteLine("Found: " + currentName);
                     launchpadInput = InputDevice.InstalledDevices[i];
                     launchpadInput.Open();
                 }
@@ -73,9 +74,10 @@ namespace midi2controller
 
             for (int i = 0; i < OutputDevice.InstalledDevices.Count; i++)
             {
-                if (OutputDevice.InstalledDevices[i].Name.Contains("Launchpad"))
+                string currentName = OutputDevice.InstalledDevices[i].Name;
+                if (currentName.Contains("Launchpad") || currentName.Contains("LPMini"))
                 {
-                    Console.WriteLine("Found: " + OutputDevice.InstalledDevices[i].Name);
+                    Console.WriteLine("Found: " + currentName);
                     launchpadOutput = OutputDevice.InstalledDevices[i];
                     launchpadOutput.Open();
                 }
